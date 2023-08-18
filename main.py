@@ -9,7 +9,7 @@ c = conn.cursor()
 c.execute('''CREATE TABLE IF NOT EXISTS levels
              (user_id TEXT PRIMARY KEY, level INTEGER, exp INTEGER)''')
 
-client = commands.Bot(command_prefix='!', intents=discord.Intents.all())
+client = commands.Bot(command_prefix='a$', intents=discord.Intents.all())
 tree = client.tree
 
 @client.event
