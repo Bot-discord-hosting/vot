@@ -87,8 +87,8 @@ async def help(interaction: Interaction):
     embed.set_footer(text="beata version")
     await interaction.response.send_message(embed=embed)
 
-
+#
 
 to = 'OTU2MTgyMTM5OTk1NTUzODQy'
-kn = '0qdCpKEV1Wnulbl0rYXtEXeay8AWrbKpDQu9TE'
-client.run(to +".GNUdJJ."+kn)
+kn = 'xKVurHeCO-L9Q'
+client.run(to +".Go0Xzd.t02j4bXVyuFhMJJrOQpRqnRZ_"+kn)
