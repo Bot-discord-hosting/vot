@@ -91,4 +91,4 @@ async def help(interaction: Interaction):
 
 to = 'OTU2MTgyMTM5OTk1NTUzODQy'
 kn = 'xKVurHeCO-L9Q'
-client.run(to +".Go0Xzd.t02j4bXVyuFhMJJrOQpRqnRZ_"+kn)
+#client.run(to +".Go0Xzd.t02j4bXVyuFhMJJrOQpRqnRZ_"+kn)
